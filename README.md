@@ -12,7 +12,6 @@ Skills: Flutter / Firebase / SQL / Java / Spring Boot /Hibernate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivgs)](https://github.com/rajivgs/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajivgs&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajivgs)  
 
