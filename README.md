@@ -4,7 +4,6 @@ Mainly Flutter developer, I love learning new technologies.
 
 Skills: Flutter / Firebase / SQL / Java / Spring Boot /Hibernate
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter 
 
 
